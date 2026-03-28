@@ -28,3 +28,10 @@ This repository includes the **Bonus Part** of the subject, which brings major u
 ```bash
 git clone [https://github.com/YOUR_USERNAME/get_next_line.git](https://github.com/YOUR_USERNAME/get_next_line.git)
 cd get_next_line
+
+
+---
+
+## License
+
+MIT © [denyskotcode](https://github.com/denyskotcode) — see [LICENSE](LICENSE) for details.
